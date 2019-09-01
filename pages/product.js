@@ -19,7 +19,7 @@ class Product extends React.Component {
                     
                     <meta  property="og:title" content= {this.getProduct().name} />
 <meta  property="og:type" content="website"/>
-<meta property="og:url" content="http://quicknews360.com/Jharkhand/chief-minister-raghuvar-das-said-all-cooperation-is-necessary-for-malnutrition-free-jhark-01631457790344-2KI0H"/>
+<meta property="og:url" content="https://youthful-albattani-09187f.netlify.com/product/1"/>
 <meta property="og:image"content={this.getProduct().image}  />
 <meta property="og:description" content={this.getProduct().description}  />
     
