@@ -8,7 +8,7 @@ const initialState = {
             name: 'Hat',
             price: 20,
             description: 'Razor blades not included',
-            image: 'https://snipcart.com/media/203631/hat.jpeg',
+            image: 'https://i10.dainikbhaskar.com/thumbnails/730x548/web2images/www.bhaskar.com/2019/09/01/0521_raipur_trafic_police.jpeg',
             id: 1
         },{
             name: 'Irish Whiskey',
