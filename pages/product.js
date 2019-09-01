@@ -16,12 +16,12 @@ class Product extends React.Component {
                 <meta name="title" content={"Peaky Blinder's " + this.getProduct().name} />
                 <meta name="description" content={this.getProduct().description} />
                     
-                    
-                    <meta  property="og:title" content= {this.getProduct().name} />
-<meta  property="og:type" content="website"/>
 <meta property="og:url" content="https://youthful-albattani-09187f.netlify.com/product/1"/>
-<meta property="og:image"content={this.getProduct().image}  />
+<meta  property="og:type" content="article"/>
+ <meta  property="og:title" content= {this.getProduct().name} />
 <meta property="og:description" content={this.getProduct().description}  />
+
+<meta property="og:image"content={this.getProduct().image}  />
     
     
             </Head>
